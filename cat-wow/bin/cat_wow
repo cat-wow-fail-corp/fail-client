@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+FLASK_APP=cat_wow.py flask run
+
